@@ -23,3 +23,7 @@ function addTrocas(){
 
     container.appendChild(newdiv);
 }
+
+function confirmaTroca() {
+    alert("Troca solicitada com sucesso! Você será redirecionado(a) para a página de status e em breve receberá mais informações sobre seus babycoins.");
+}
